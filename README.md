@@ -1,2 +1,2 @@
-# Trello_API
-Automating Ticket Management via APIs
+# Automating Ticket Management via APIs
+
